@@ -2,7 +2,7 @@
 # maintainer <sivakumarvunnam1@gmail.com>
 version=7.0.3-fa31da744b51
 SPLUNK_HOME=/opt/splunk
-mkdir -P $SPLUNK_HOME
+mkdir -p $SPLUNK_HOME
 useradd -m splunk && groupadd -g 10000 splunk
 sudo usermod -a -G splunk splunk
 chown -R splunk:splunk $SPLUNK_HOME
