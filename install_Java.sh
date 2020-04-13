@@ -10,6 +10,7 @@ function installJava() {
     JAVA_HOME=`readlink -e $(which java)`
     export PATH=$PATH:$JAVA_HOME
     echo "Java home : ${JAVA_HOME}"
+    echo "Java version is : $(java -verison)"
   fi
 }
 

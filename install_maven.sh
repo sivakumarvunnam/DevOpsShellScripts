@@ -21,5 +21,5 @@ export PATH=${install_dir}/bin:$PATH
 
 echo maven installed to ${install_dir}
 
-mvn --version
+echo "maven version is : $(mvn --version)"
 
