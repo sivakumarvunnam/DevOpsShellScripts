@@ -7,3 +7,4 @@ Usefull scripts for the DevOps:
 * ([minikube.sh](https://github.com/sivakumarvunnam/DevOpsShellScripts/blob/master/minikube.sh)) --> Running Kubernetes Locally Via Minikube
 * ([install_splunk.sh](https://github.com/sivakumarvunnam/DevOpsShellScripts/blob/master/install_splunk.sh)) --> script to install Splunk Enterprise 7.0.3 locally on ubuntu instance
 * ([packer.sh](https://github.com/sivakumarvunnam/DevOpsShellScripts/blob/master/packer.sh)) --> Script to install packer
+* ([install_eksctl.sh](https://github.com/sivakumarvunnam/DevOpsShellScripts/blob/master/install_eksctl.sh)) --> Script to install eksctl - `eksctl` is a simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2
