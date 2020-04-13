@@ -6,3 +6,4 @@ Usefull scripts for the DevOps:
 * ([install_jenkins.sh](https://github.com/sivakumarvunnam/DevOpsShellScripts/blob/master/install_jenkins.sh)) --> script to install Jenkins latest version on ubuntu/centos instances
 * ([minikube.sh](https://github.com/sivakumarvunnam/DevOpsShellScripts/blob/master/minikube.sh)) --> Running Kubernetes Locally Via Minikube
 * ([install_splunk.sh](https://github.com/sivakumarvunnam/DevOpsShellScripts/blob/master/install_splunk.sh)) --> script to install Splunk Enterprise 7.0.3 locally on ubuntu instance
+* ([packer.sh](https://github.com/sivakumarvunnam/DevOpsShellScripts/blob/master/packer.sh)) --> Script to install packer
